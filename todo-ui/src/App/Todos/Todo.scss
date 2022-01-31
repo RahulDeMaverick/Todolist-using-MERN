@@ -1,0 +1,32 @@
+.todo-container{
+margin-top: 70px;
+
+}
+
+.divstyle{
+    
+margin: 20px;
+padding: 20px;
+background-color: rgb(86, 86, 122);
+color: white;
+
+
+}
+input[type=text] {
+    border: 2px solid rgb(14, 17, 212);
+    border-radius: 20px;
+    display: block;
+    width: 300px;
+  }
+  
+button{
+    background-color: #3b3f5f; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline;
+    font-size: 16px;
+
+}
